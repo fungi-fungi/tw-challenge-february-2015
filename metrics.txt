@@ -1,0 +1,5 @@
+Metrics:
+- Amount of registered users
+- Amount of e-shop integrations
+- Average amount of items from different e-shops per user
+- Average amount of inter payment methods payments per user
